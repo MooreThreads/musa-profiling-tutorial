@@ -31,7 +31,7 @@ demos/<name>/
 
 ## AI Agent 友好
 
-AI Agent 友好时 Moore Perf Profiling Toolkits 关键目标之一，demo 不会局限于人工 profiling，也欢迎社区积极反馈结合 AI 使用的痛点和需求。
+AI Agent 友好是 Moore Perf Profiling Toolkits 关键目标之一，demo 不会局限于人工 profiling，也欢迎社区积极反馈结合 AI 使用的痛点和需求。
 
 ## Moore Perf Tools 文档
 
